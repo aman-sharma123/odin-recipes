@@ -31,3 +31,8 @@ body {
 .paneer {
     margin: 20px;
 }
+
+li {
+    padding: 10px;
+    margin-left: 15px;
+}
