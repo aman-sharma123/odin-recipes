@@ -1,0 +1,33 @@
+h1 {
+    background-color: peachpuff;
+    font-size: 50px;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    margin-top: 0px;
+    margin-left: 400px;
+    margin-right: 400px;
+    border: 1px solid green;
+}
+
+a {
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200;
+}
+
+body {
+    background-color: pink;
+}
+
+.bhature {
+    margin: 20px;
+}
+
+.poori {
+    margin: 20px;
+}
+
+.paneer {
+    margin: 20px;
+}
